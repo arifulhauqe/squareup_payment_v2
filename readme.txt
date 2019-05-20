@@ -1,6 +1,8 @@
-1. First go to you project directory from command line
-2. Run "composer dump-autoload"
-3. Run "composer update"
+1. Create an account/developer account on squareup https://docs.connect.squareup.com/
+2. First go to you project directory from command line
+3. Run "composer dump-autoload"
+4. Run "composer update"
+5. Put access token, application id and location id on .env file from squareup account dashboard. Squareup also provide sandbox credentials for developers for testing.
 
 ************ Here is a example*****************************
 
