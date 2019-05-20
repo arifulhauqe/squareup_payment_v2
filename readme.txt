@@ -1,3 +1,9 @@
+1. First go to you project directory from command line
+2. Run "composer dump-autoload"
+3. Run "composer update"
+
+************ Here is a example*****************************
+
 C:\Users\arif>cd..
 
 C:\Users>cd..
